@@ -6,7 +6,7 @@ Parts: 1 Arduino UNO, 1 47Mohm, 1 220ohm, 1 plain red 5-pi LED
 
 Connection: pin 2 - 47Mohm - pin 3 - LED cathode - LED anode - 220ohm - pin 4
 
-**why it works?**
+** why it works? **
 
 LEDs are structurally similar to photodiodes. 
 
